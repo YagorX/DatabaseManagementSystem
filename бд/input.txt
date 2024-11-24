@@ -1,0 +1,2 @@
+hex: 0xABC, s = fscanf
+float <- 3.14
